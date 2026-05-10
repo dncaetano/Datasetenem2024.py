@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
 
-
-#Aluno: Danilo Ferreira Caetano
-#Turma: IA, ML e DP
 
 import pandas as pd       #importação da biblioteca pandas
 import matplotlib.pyplot as plt
